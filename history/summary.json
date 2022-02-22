@@ -4,17 +4,17 @@
     "url": "https://www.kolumbao.com",
     "icon": "https://favicons.githubusercontent.com/www.kolumbao.com",
     "slug": "kolumbao-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 327,
-    "timeDay": 354,
-    "timeWeek": 364,
-    "timeMonth": 345,
-    "timeYear": 327,
+    "time": 326,
+    "timeDay": 288,
+    "timeWeek": 346,
+    "timeMonth": 341,
+    "timeYear": 326,
     "dailyMinutesDown": {}
   }
 ]
